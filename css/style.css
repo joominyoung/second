@@ -13,4 +13,4 @@ h1, h2, h3, h4, .logo-font {
 .card-img-top{ transition: transform .7s;}
 .card-img-top:hover{ transform: scale(1.1); cursor: pointer;}
 
-#modal{ background: url(/images/card-banner.jpg)no-repeat center center / cover; background-attachment: fixed;}
+#modal{ background: url(../images/card-banner.jpg)no-repeat center center / cover; background-attachment: fixed;}
