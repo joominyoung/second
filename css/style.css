@@ -18,3 +18,4 @@ h1, h2, h3, h4, h5, .logo-font {
 .card-img-top:hover{ transform: scale(1.1); cursor: pointer;}
 
 #modal{ background: url(../images/card-banner.jpg)no-repeat center center / cover; background-attachment: fixed;}
+.contact-bg{ background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.2)), url(../images/contact-bg.jpg); background-position: center; background-size: cover; background-attachment: fixed;}
